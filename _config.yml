@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Shatha Almazrouei"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Enjoying every second"
+  bio    : "Enjoying every second ;)"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
