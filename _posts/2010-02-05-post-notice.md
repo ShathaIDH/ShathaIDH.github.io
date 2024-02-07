@@ -1,15 +1,22 @@
 ---
-title: "Post: Notice"
+title: "**Assignment 2:Exploring Textual Data from a Custom Corpus** "
 categories:
   - Blog
 tags:
-  - Post Formats
-  - notice
+  - Assignment 2
+  - Textual data
 ---
 
-A notice displays information that explains nearby content. Often used to call attention to a particular detail.
+> This assignment uses techniques learned from the textual analysis part of the course, utilizing Voyant Tools and R Markdown in Posit Cloud. The task comprises three key steps:
 
-When using Kramdown `{: .notice}` can be added after a sentence to assign the `.notice` to the `<p></p>` element. 
+ - Select a corpus consisting of either three individual texts or three groups of texts.
+ - Apply digital textual analysis tools for exploratory data analysis (EDA) on your chosen corpus.
+ - Compile your findings into a web-published document, incorporating both written analysis and visual elements.
+
+
+
+
+
 
 **Changes in Service:** We just updated our [privacy policy](#) here to better service our customers. We recommend reviewing the changes.
 {: .notice}
