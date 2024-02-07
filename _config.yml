@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Shatha Almazrouei"
   avatar : "/assets/images/profile.jpg"
-  bio    : "Aspiring NYUAD student"
+  bio    : "Aspiring NYUAD student:star:"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
