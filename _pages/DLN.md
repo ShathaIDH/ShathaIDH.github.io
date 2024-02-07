@@ -1,6 +1,6 @@
 ---
 permalink: /DLN/
-title: "Digital Literacy Narrative Reflection: "
+title: "*Digital Literacy Narrative Reflection:* "
 ---
 
 
