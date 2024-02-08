@@ -4,5 +4,6 @@ categories:
   - Blog
 tags:
   - Assignment 3
+  - Spatial Data
 
 ---
