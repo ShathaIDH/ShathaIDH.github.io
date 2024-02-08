@@ -5,4 +5,5 @@ categories:
   - Blog
 tags:
  - Assignment 4
+ - clustering
 ---
