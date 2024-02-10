@@ -1,5 +1,5 @@
 ---
-title: "Assignment 1: Cultural Heritage By the Numbers F23"
+title: "**Assignment 1: Cultural Heritage By the Numbers F23**"
 categories:
   - Blog
 tags:
