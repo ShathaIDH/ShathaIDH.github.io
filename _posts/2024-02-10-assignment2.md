@@ -1,5 +1,5 @@
 ---
-title: "**Assignment 2: Exploring Textual Data from a Custom Corpus** "
+title: "Assignment 2: Exploring Textual Data from a Custom Corpus "
 categories:
   - Blog
 tags:
