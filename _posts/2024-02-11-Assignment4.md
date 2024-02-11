@@ -5,6 +5,6 @@ categories:
   - Blog
 tags:
  - Assignment 4
- - Clustering
- - Classifying
+ - clustering
+ - classifying 
 ---
