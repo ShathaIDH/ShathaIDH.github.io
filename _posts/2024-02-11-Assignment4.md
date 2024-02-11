@@ -6,4 +6,5 @@ categories:
 tags:
  - Assignment 4
  - Clustering
+ - Classifying
 ---
